@@ -1,1586 +1,398 @@
 [
-  {
-    "word": "internet",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "telefon",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "smartfon",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "kompyuter",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "noutbuk",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "planshet",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "printer",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "skaner",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "monitor",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "klaviatura",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "sichqoncha",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "server",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "hosting",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "domen",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "brauzer",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "sayt",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "veb",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "web",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "onlayn",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "offline",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "wifi",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "router",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "modem",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "bluetooth",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "email",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "e-mail",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "mail",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "login",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "parol",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "akkaunt",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "profil",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "registratsiya",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "avtorizatsiya",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "autentifikatsiya",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "api",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "backend",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "frontend",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "fullstack",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "devops",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "deploy",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "release",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "update",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "bug",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "feature",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "commit",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "push",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "pull",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "github",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "gitlab",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "bitbucket",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "repo",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "repository",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "branch",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "merge",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "pullrequest",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "issue",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "ticket",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "kod",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "programma",
-    "origin": "Rus tili"
-  },
-  {
-    "word": "dastur",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "ilova",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "platforma",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "servis",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "xizmat",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "sistema",
-    "origin": "Rus tili"
-  },
-  {
-    "word": "tizim",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "interfeys",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "ui",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "ux",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "dizayn",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "grafika",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "animatsiya",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "format",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "fayl",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "pdf",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "doc",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "docx",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "ppt",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "pptx",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "xls",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "xlsx",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "csv",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "json",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "xml",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "html",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "css",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "javascript",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "typescript",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "python",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "java",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "c",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "c++",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "c#",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "golang",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "rust",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "php",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "swift",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "kotlin",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "sql",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "nosql",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "mongodb",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "postgres",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "mysql",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "redis",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "cache",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "token",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "session",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "cookie",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "encrypt",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "decript",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "hash",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "sha",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "md5",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "ssl",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "tls",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "https",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "http",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "model",
-    "origin": "Lotin tili"
-  },
-  {
-    "word": "dataset",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "data",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "analitika",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "statistika",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "algoritm",
-    "origin": "Yunon tili"
-  },
-  {
-    "word": "metod",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "metrika",
-    "origin": "Yunon tili"
-  },
-  {
-    "word": "komplekslik",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "parametr",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "funksiya",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "matritsa",
-    "origin": "Yunon tili"
-  },
-  {
-    "word": "vektor",
-    "origin": "Yunon tili"
-  },
-  {
-    "word": "formula",
-    "origin": "Lotin tili"
-  },
-  {
-    "word": "graf",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "diagramma",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "protsess",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "protsessor",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "operatsiya",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "operator",
-    "origin": "Lotin tili"
-  },
-  {
-    "word": "operand",
-    "origin": "Lotin tili"
-  },
-  {
-    "word": "monitoring",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "log",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "logger",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "debug",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "test",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "testing",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "unit",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "integration",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "pipeline",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "ci",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "cd",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "docker",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "container",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "kubernetes",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "cloud",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "aws",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "azure",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "gcp",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "supabase",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "firebase",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "vercel",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "netlify",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "startap",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "startup",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "biznes",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "market",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "marketing",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "brend",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "brand",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "reklama",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "promo",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "pr",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "target",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "auditoriya",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "strategiya",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "kontent",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "blog",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "post",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "story",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "live",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "stream",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "video",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "audio",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "podkast",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "media",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "instagram",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "telegram",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "facebook",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "youtube",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "tiktok",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "twitter",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "x",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "linkedin",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "kompaniya",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "korporatsiya",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "ofis",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "menedjer",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "manager",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "direktor",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "lider",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "liderlik",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "jamoa",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "team",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "plan",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "reja",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "proyekt",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "project",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "task",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "deadline",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "brief",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "prezentatsiya",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "presentation",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "seminar",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "trening",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "kurs",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "webinar",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "master-klass",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "mentor",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "coach",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "kouch",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "bank",
-    "origin": "Italiya tili"
-  },
-  {
-    "word": "kredit",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "debet",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "depozit",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "ipoteka",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "foiz",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "protsent",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "valyuta",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "dollar",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "evro",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "euro",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "investitsiya",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "investor",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "kapital",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "byudjet",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "budget",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "finans",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "moliya",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "balans",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "hisob",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "schyot",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "terminal",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "bankomat",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "kassa",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "chek",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "faktura",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "invoice",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "kontrakt",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "shartnoma",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "logistika",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "transport",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "import",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "eksport",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "broker",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "biznesmen",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "bizneswoman",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "partner",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "servisli",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "service",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "dispecher",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "kuryer",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "delivery",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "servis-markaz",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "meditsina",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "klinika",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "diagnostika",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "analiz",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "laboratoriya",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "apteka",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "retsept",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "virus",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "bakteriya",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "infeksiya",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "immunitet",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "vaksina",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "protsedura",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "terapiya",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "sport",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "futbol",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "basketbol",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "voleybol",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "tennis",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "boks",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "karate",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "fitness",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "gym",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "trenajor",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "musobaqa",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "chempionat",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "liga",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "klub",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "trener",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "kapitan",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "kino",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "film",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "serial",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "aktyor",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "rejissyor",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "produser",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "premyera",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "festival",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "muzika",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "konsert",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "albom",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "track",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "trek",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "klip",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "dj",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "restoran",
-    "origin": "Fransuz tili"
-  },
-  {
-    "word": "kafe",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "bar",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "menyu",
-    "origin": "Fransuz tili"
-  },
-  {
-    "word": "chef",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "shif",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "dessert",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "fastfood",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "burger",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "pizza",
-    "origin": "Italiya tili"
-  },
-  {
-    "word": "sushi",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "hotel",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "otel",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "hostel",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "bron",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "booking",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "check-in",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "check-out",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "resepshn",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "reception",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "turizm",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "tur",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "gid",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "ekskursiya",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "vizа",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "pasport",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "energiya",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "generator",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "motor",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "fabrika",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "zavod",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "kompressor",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "nasos",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "elektron",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "sensor",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "kamera",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "mikrofon",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "speaker",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "kolonka",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "adapter",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "akku",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "batareya",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "material",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "plastik",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "metall",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "beton",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "sement",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "armatura",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "konstruksiya",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "protokol",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "standart",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "norma",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "reglament",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "sertifikat",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "licenziya",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "patent",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "moderator",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "admin",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "administrator",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "operatorlik",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "supervisor",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "forum",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "chat",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "messenger",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "support",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "helpdesk",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "chatbot",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "bot",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "ai",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "ml",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "dl",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "neural",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "neyron",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "transformer",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "embedding",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "vector",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "prompt",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "scoring",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "ranking",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "classification",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "claster",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "cluster",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "regression",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "dashboard",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "panel",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "widget",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "report",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "hisobot",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "summary",
-    "origin": "Ingliz tili"
-  },
-  {
-    "word": "export",
-    "origin": "Ingliz tili"
-  }
+  { "word": "internet", "origin": "Ingliz tili", "alternative": "global tarmoq" },
+  { "word": "telefon", "origin": "Ingliz tili", "alternative": "aloqa qurilmasi" },
+  { "word": "smartfon", "origin": "Ingliz tili", "alternative": "aqlli telefon" },
+  { "word": "kompyuter", "origin": "Ingliz tili", "alternative": "hisoblash mashinasi" },
+  { "word": "noutbuk", "origin": "Ingliz tili", "alternative": "ko'chma kompyuter" },
+  { "word": "planshet", "origin": "Ingliz tili", "alternative": "yassi kompyuter" },
+  { "word": "printer", "origin": "Ingliz tili", "alternative": "chop etgich" },
+  { "word": "skaner", "origin": "Ingliz tili", "alternative": "skanerlash qurilmasi" },
+  { "word": "monitor", "origin": "Ingliz tili", "alternative": "ekran" },
+  { "word": "klaviatura", "origin": "Ingliz tili", "alternative": "tugmalar paneli" },
+  { "word": "sichqoncha", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "server", "origin": "Ingliz tili", "alternative": "xizmat ko'rsatuvchi" },
+  { "word": "hosting", "origin": "Ingliz tili", "alternative": "joy beruvchi xizmat" },
+  { "word": "domen", "origin": "Ingliz tili", "alternative": "tarmoq manzili" },
+  { "word": "brauzer", "origin": "Ingliz tili", "alternative": "veb-ko'rgazma" },
+  { "word": "sayt", "origin": "Ingliz tili", "alternative": "veb-sahifa" },
+  { "word": "veb", "origin": "Ingliz tili", "alternative": "tarmoq" },
+  { "word": "web", "origin": "Ingliz tili", "alternative": "tarmoq" },
+  { "word": "onlayn", "origin": "Ingliz tili", "alternative": "tarmoq orqali" },
+  { "word": "offline", "origin": "Ingliz tili", "alternative": "tarmoqsiz" },
+  { "word": "wifi", "origin": "Ingliz tili", "alternative": "simsiz tarmoq" },
+  { "word": "router", "origin": "Ingliz tili", "alternative": "tarmoq yo'naltiruvchi" },
+  { "word": "modem", "origin": "Ingliz tili", "alternative": "tarmoq ulagichi" },
+  { "word": "bluetooth", "origin": "Ingliz tili", "alternative": "simsiz ulanish" },
+  { "word": "email", "origin": "Ingliz tili", "alternative": "elektron pochta" },
+  { "word": "e-mail", "origin": "Ingliz tili", "alternative": "elektron pochta" },
+  { "word": "mail", "origin": "Ingliz tili", "alternative": "xat / pochta" },
+  { "word": "login", "origin": "Ingliz tili", "alternative": "kirish nomi" },
+  { "word": "parol", "origin": "Ingliz tili", "alternative": "maxfiy so'z" },
+  { "word": "akkaunt", "origin": "Ingliz tili", "alternative": "shaxsiy hisob" },
+  { "word": "profil", "origin": "Ingliz tili", "alternative": "shaxsiy sahifa" },
+  { "word": "registratsiya", "origin": "Ingliz tili", "alternative": "ro'yxatdan o'tish" },
+  { "word": "avtorizatsiya", "origin": "Ingliz tili", "alternative": "kirishni tasdiqlash" },
+  { "word": "autentifikatsiya", "origin": "Ingliz tili", "alternative": "shaxsni tasdiqlash" },
+  { "word": "api", "origin": "Ingliz tili", "alternative": "dastur interfeysi" },
+  { "word": "backend", "origin": "Ingliz tili", "alternative": "orqa tomon" },
+  { "word": "frontend", "origin": "Ingliz tili", "alternative": "old tomon" },
+  { "word": "fullstack", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "devops", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "deploy", "origin": "Ingliz tili", "alternative": "joylashtirish" },
+  { "word": "release", "origin": "Ingliz tili", "alternative": "chiqarish" },
+  { "word": "update", "origin": "Ingliz tili", "alternative": "yangilash" },
+  { "word": "bug", "origin": "Ingliz tili", "alternative": "dastur xatosi" },
+  { "word": "feature", "origin": "Ingliz tili", "alternative": "imkoniyat" },
+  { "word": "commit", "origin": "Ingliz tili", "alternative": "saqlash" },
+  { "word": "push", "origin": "Ingliz tili", "alternative": "yuklash" },
+  { "word": "pull", "origin": "Ingliz tili", "alternative": "tortib olish" },
+  { "word": "github", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "gitlab", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "bitbucket", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "repo", "origin": "Ingliz tili", "alternative": "kod ombori" },
+  { "word": "repository", "origin": "Ingliz tili", "alternative": "kod ombori" },
+  { "word": "branch", "origin": "Ingliz tili", "alternative": "tarmoq / shox" },
+  { "word": "merge", "origin": "Ingliz tili", "alternative": "birlashtirish" },
+  { "word": "pullrequest", "origin": "Ingliz tili", "alternative": "o'zgarishlar so'rovi" },
+  { "word": "issue", "origin": "Ingliz tili", "alternative": "muammo / vazifa" },
+  { "word": "ticket", "origin": "Ingliz tili", "alternative": "muammo chipta" },
+  { "word": "kod", "origin": "Ingliz tili", "alternative": "dastur matni" },
+  { "word": "programma", "origin": "Rus tili", "alternative": "dastur" },
+  { "word": "dastur", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "ilova", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "platforma", "origin": "Ingliz tili", "alternative": "maydon" },
+  { "word": "servis", "origin": "Ingliz tili", "alternative": "xizmat" },
+  { "word": "xizmat", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "sistema", "origin": "Rus tili", "alternative": "tizim" },
+  { "word": "tizim", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "interfeys", "origin": "Ingliz tili", "alternative": "boshqaruv paneli" },
+  { "word": "ui", "origin": "Ingliz tili", "alternative": "foydalanuvchi interfeysi" },
+  { "word": "ux", "origin": "Ingliz tili", "alternative": "foydalanuvchi tajribasi" },
+  { "word": "dizayn", "origin": "Ingliz tili", "alternative": "ko'rinish loyihasi" },
+  { "word": "grafika", "origin": "Ingliz tili", "alternative": "tasviriy san'at" },
+  { "word": "animatsiya", "origin": "Ingliz tili", "alternative": "jonlantirish" },
+  { "word": "format", "origin": "Ingliz tili", "alternative": "shakl / tur" },
+  { "word": "fayl", "origin": "Ingliz tili", "alternative": "hujjat" },
+  { "word": "pdf", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "doc", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "docx", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "ppt", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "pptx", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "xls", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "xlsx", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "csv", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "json", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "xml", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "html", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "css", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "javascript", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "typescript", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "python", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "java", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "c", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "c++", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "c#", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "golang", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "rust", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "php", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "swift", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "kotlin", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "sql", "origin": "Ingliz tili", "alternative": "so'rov tili" },
+  { "word": "nosql", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "mongodb", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "postgres", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "mysql", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "redis", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "cache", "origin": "Ingliz tili", "alternative": "kesh xotira" },
+  { "word": "token", "origin": "Ingliz tili", "alternative": "kalit belgi" },
+  { "word": "session", "origin": "Ingliz tili", "alternative": "seans" },
+  { "word": "cookie", "origin": "Ingliz tili", "alternative": "kuki fayl" },
+  { "word": "encrypt", "origin": "Ingliz tili", "alternative": "shifrlash" },
+  { "word": "decript", "origin": "Ingliz tili", "alternative": "shifr ochish" },
+  { "word": "hash", "origin": "Ingliz tili", "alternative": "xesh" },
+  { "word": "sha", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "md5", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "ssl", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "tls", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "https", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "http", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "model", "origin": "Lotin tili", "alternative": "naqsh / andoza" },
+  { "word": "dataset", "origin": "Ingliz tili", "alternative": "ma'lumotlar to'plami" },
+  { "word": "data", "origin": "Ingliz tili", "alternative": "ma'lumot" },
+  { "word": "analitika", "origin": "Ingliz tili", "alternative": "tahliliy tizim" },
+  { "word": "statistika", "origin": "Ingliz tili", "alternative": "raqamli tahlil" },
+  { "word": "algoritm", "origin": "Yunon tili", "alternative": "yechim ketma-ketligi" },
+  { "word": "metod", "origin": "Ingliz tili", "alternative": "usul" },
+  { "word": "metrika", "origin": "Yunon tili", "alternative": "o'lchov ko'rsatkichi" },
+  { "word": "komplekslik", "origin": "Ingliz tili", "alternative": "murakkablik" },
+  { "word": "parametr", "origin": "Ingliz tili", "alternative": "sozlama" },
+  { "word": "funksiya", "origin": "Ingliz tili", "alternative": "vazifa" },
+  { "word": "matritsa", "origin": "Yunon tili", "alternative": "jadval" },
+  { "word": "vektor", "origin": "Yunon tili", "alternative": "yo'nalishli kattalik" },
+  { "word": "formula", "origin": "Lotin tili", "alternative": "hisoblash usuli" },
+  { "word": "graf", "origin": "Ingliz tili", "alternative": "chizma" },
+  { "word": "diagramma", "origin": "Ingliz tili", "alternative": "ko'rsatkich chizmasi" },
+  { "word": "protsess", "origin": "Ingliz tili", "alternative": "jarayon" },
+  { "word": "protsessor", "origin": "Ingliz tili", "alternative": "hisoblash chipi" },
+  { "word": "operatsiya", "origin": "Ingliz tili", "alternative": "amal / harakat" },
+  { "word": "operator", "origin": "Lotin tili", "alternative": "amal belgisi" },
+  { "word": "operand", "origin": "Lotin tili", "alternative": "qiymat" },
+  { "word": "monitoring", "origin": "Ingliz tili", "alternative": "kuzatish / nazorat" },
+  { "word": "log", "origin": "Ingliz tili", "alternative": "qayd yozuv" },
+  { "word": "logger", "origin": "Ingliz tili", "alternative": "qayd yozuvchi" },
+  { "word": "debug", "origin": "Ingliz tili", "alternative": "xato tuzatish" },
+  { "word": "test", "origin": "Ingliz tili", "alternative": "sinov" },
+  { "word": "testing", "origin": "Ingliz tili", "alternative": "sinovdan o'tkazish" },
+  { "word": "unit", "origin": "Ingliz tili", "alternative": "birlik" },
+  { "word": "integration", "origin": "Ingliz tili", "alternative": "birlashuv" },
+  { "word": "pipeline", "origin": "Ingliz tili", "alternative": "jarayon qatori" },
+  { "word": "ci", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "cd", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "docker", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "container", "origin": "Ingliz tili", "alternative": "konteyner" },
+  { "word": "kubernetes", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "cloud", "origin": "Ingliz tili", "alternative": "bulut hisoblash" },
+  { "word": "aws", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "azure", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "gcp", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "supabase", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "firebase", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "vercel", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "netlify", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "startap", "origin": "Ingliz tili", "alternative": "yangi korxona" },
+  { "word": "startup", "origin": "Ingliz tili", "alternative": "yangi korxona" },
+  { "word": "biznes", "origin": "Ingliz tili", "alternative": "tijorat" },
+  { "word": "market", "origin": "Ingliz tili", "alternative": "bozor" },
+  { "word": "marketing", "origin": "Ingliz tili", "alternative": "bozorda ilgari surish" },
+  { "word": "brend", "origin": "Ingliz tili", "alternative": "tovar belgisi" },
+  { "word": "brand", "origin": "Ingliz tili", "alternative": "tovar belgisi" },
+  { "word": "reklama", "origin": "Ingliz tili", "alternative": "e'lon" },
+  { "word": "promo", "origin": "Ingliz tili", "alternative": "targ'ibot" },
+  { "word": "pr", "origin": "Ingliz tili", "alternative": "jamoatchilik bilan aloqa" },
+  { "word": "target", "origin": "Ingliz tili", "alternative": "nishon auditoriya" },
+  { "word": "auditoriya", "origin": "Ingliz tili", "alternative": "tinglovchilar" },
+  { "word": "strategiya", "origin": "Ingliz tili", "alternative": "rejalashtirish" },
+  { "word": "kontent", "origin": "Ingliz tili", "alternative": "mazmun" },
+  { "word": "blog", "origin": "Ingliz tili", "alternative": "veb-jurnal" },
+  { "word": "post", "origin": "Ingliz tili", "alternative": "xabar / yozuv" },
+  { "word": "story", "origin": "Ingliz tili", "alternative": "hikoya" },
+  { "word": "live", "origin": "Ingliz tili", "alternative": "jonli efir" },
+  { "word": "stream", "origin": "Ingliz tili", "alternative": "oqim" },
+  { "word": "video", "origin": "Ingliz tili", "alternative": "tasvirli yozuv" },
+  { "word": "audio", "origin": "Ingliz tili", "alternative": "tovush yozuv" },
+  { "word": "podkast", "origin": "Ingliz tili", "alternative": "audio dastur" },
+  { "word": "media", "origin": "Ingliz tili", "alternative": "ommaviy axborot vositasi" },
+  { "word": "instagram", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "telegram", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "facebook", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "youtube", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "tiktok", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "twitter", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "x", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "linkedin", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "kompaniya", "origin": "Ingliz tili", "alternative": "korxona" },
+  { "word": "korporatsiya", "origin": "Ingliz tili", "alternative": "katta korxona" },
+  { "word": "ofis", "origin": "Ingliz tili", "alternative": "idora" },
+  { "word": "menedjer", "origin": "Ingliz tili", "alternative": "boshqaruvchi" },
+  { "word": "manager", "origin": "Ingliz tili", "alternative": "boshqaruvchi" },
+  { "word": "direktor", "origin": "Ingliz tili", "alternative": "rahbar" },
+  { "word": "lider", "origin": "Ingliz tili", "alternative": "yo'lboshchi" },
+  { "word": "liderlik", "origin": "Ingliz tili", "alternative": "yo'lboshchilik" },
+  { "word": "jamoa", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "team", "origin": "Ingliz tili", "alternative": "jamoa" },
+  { "word": "plan", "origin": "Ingliz tili", "alternative": "reja" },
+  { "word": "reja", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "proyekt", "origin": "Ingliz tili", "alternative": "loyiha" },
+  { "word": "project", "origin": "Ingliz tili", "alternative": "loyiha" },
+  { "word": "task", "origin": "Ingliz tili", "alternative": "vazifa" },
+  { "word": "deadline", "origin": "Ingliz tili", "alternative": "muddati" },
+  { "word": "brief", "origin": "Ingliz tili", "alternative": "qisqacha vazifa" },
+  { "word": "prezentatsiya", "origin": "Ingliz tili", "alternative": "taqdimot" },
+  { "word": "presentation", "origin": "Ingliz tili", "alternative": "taqdimot" },
+  { "word": "seminar", "origin": "Ingliz tili", "alternative": "mashg'ulot" },
+  { "word": "trening", "origin": "Ingliz tili", "alternative": "ko'nikma oshirish" },
+  { "word": "kurs", "origin": "Ingliz tili", "alternative": "o'quv dasturi" },
+  { "word": "webinar", "origin": "Ingliz tili", "alternative": "onlayn mashg'ulot" },
+  { "word": "master-klass", "origin": "Ingliz tili", "alternative": "ustoz darsi" },
+  { "word": "mentor", "origin": "Ingliz tili", "alternative": "murabbiy ustoz" },
+  { "word": "coach", "origin": "Ingliz tili", "alternative": "murabbiy" },
+  { "word": "kouch", "origin": "Ingliz tili", "alternative": "murabbiy" },
+  { "word": "bank", "origin": "Italiya tili", "alternative": "" },
+  { "word": "kredit", "origin": "Ingliz tili", "alternative": "qarz" },
+  { "word": "debet", "origin": "Ingliz tili", "alternative": "xarajat hisobi" },
+  { "word": "depozit", "origin": "Ingliz tili", "alternative": "omonat" },
+  { "word": "ipoteka", "origin": "Ingliz tili", "alternative": "garov asosida qarz" },
+  { "word": "foiz", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "protsent", "origin": "Ingliz tili", "alternative": "foiz" },
+  { "word": "valyuta", "origin": "Ingliz tili", "alternative": "pul birligi" },
+  { "word": "dollar", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "evro", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "euro", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "investitsiya", "origin": "Ingliz tili", "alternative": "mablag' kiritish" },
+  { "word": "investor", "origin": "Ingliz tili", "alternative": "mablag' kirituvchi" },
+  { "word": "kapital", "origin": "Ingliz tili", "alternative": "asosiy mablag'" },
+  { "word": "byudjet", "origin": "Ingliz tili", "alternative": "sarfnoma" },
+  { "word": "budget", "origin": "Ingliz tili", "alternative": "sarfnoma" },
+  { "word": "finans", "origin": "Ingliz tili", "alternative": "moliya" },
+  { "word": "moliya", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "balans", "origin": "Ingliz tili", "alternative": "muvozanat hisobi" },
+  { "word": "hisob", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "schyot", "origin": "Ingliz tili", "alternative": "hisob raqam" },
+  { "word": "terminal", "origin": "Ingliz tili", "alternative": "to'lov qurilmasi" },
+  { "word": "bankomat", "origin": "Ingliz tili", "alternative": "naqd pul qurilmasi" },
+  { "word": "kassa", "origin": "Ingliz tili", "alternative": "to'lov joyi" },
+  { "word": "chek", "origin": "Ingliz tili", "alternative": "to'lov tasdiqnomasi" },
+  { "word": "faktura", "origin": "Ingliz tili", "alternative": "hisob-faktura" },
+  { "word": "invoice", "origin": "Ingliz tili", "alternative": "to'lov talabi" },
+  { "word": "kontrakt", "origin": "Ingliz tili", "alternative": "shartnoma" },
+  { "word": "shartnoma", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "logistika", "origin": "Ingliz tili", "alternative": "yuk tashish boshqaruvi" },
+  { "word": "transport", "origin": "Ingliz tili", "alternative": "tashish vositasi" },
+  { "word": "import", "origin": "Ingliz tili", "alternative": "chetdan keltirish" },
+  { "word": "eksport", "origin": "Ingliz tili", "alternative": "chetga chiqarish" },
+  { "word": "broker", "origin": "Ingliz tili", "alternative": "vositachi" },
+  { "word": "biznesmen", "origin": "Ingliz tili", "alternative": "tadbirkor" },
+  { "word": "bizneswoman", "origin": "Ingliz tili", "alternative": "tadbirkor ayol" },
+  { "word": "partner", "origin": "Ingliz tili", "alternative": "hamkor" },
+  { "word": "servisli", "origin": "Ingliz tili", "alternative": "xizmat ko'rsatuvchi" },
+  { "word": "service", "origin": "Ingliz tili", "alternative": "xizmat" },
+  { "word": "dispecher", "origin": "Ingliz tili", "alternative": "boshqaruvchi" },
+  { "word": "kuryer", "origin": "Ingliz tili", "alternative": "yetkazib beruvchi" },
+  { "word": "delivery", "origin": "Ingliz tili", "alternative": "yetkazib berish" },
+  { "word": "servis-markaz", "origin": "Ingliz tili", "alternative": "xizmat markazi" },
+  { "word": "meditsina", "origin": "Ingliz tili", "alternative": "tibbiyot" },
+  { "word": "klinika", "origin": "Ingliz tili", "alternative": "shifoxona" },
+  { "word": "diagnostika", "origin": "Ingliz tili", "alternative": "kasallik aniqlash" },
+  { "word": "analiz", "origin": "Ingliz tili", "alternative": "tahlil" },
+  { "word": "laboratoriya", "origin": "Ingliz tili", "alternative": "tajriba xonasi" },
+  { "word": "apteka", "origin": "Ingliz tili", "alternative": "dori-darmon do'koni" },
+  { "word": "retsept", "origin": "Ingliz tili", "alternative": "dori buyurtmasi" },
+  { "word": "virus", "origin": "Ingliz tili", "alternative": "kasallik qo'zg'atuvchi" },
+  { "word": "bakteriya", "origin": "Ingliz tili", "alternative": "mikrob" },
+  { "word": "infeksiya", "origin": "Ingliz tili", "alternative": "yuqumli kasallik" },
+  { "word": "immunitet", "origin": "Ingliz tili", "alternative": "kasallikka chidamlilik" },
+  { "word": "vaksina", "origin": "Ingliz tili", "alternative": "emlash vositasi" },
+  { "word": "protsedura", "origin": "Ingliz tili", "alternative": "muolaja" },
+  { "word": "terapiya", "origin": "Ingliz tili", "alternative": "davolash" },
+  { "word": "sport", "origin": "Ingliz tili", "alternative": "jismoniy mashq" },
+  { "word": "futbol", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "basketbol", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "voleybol", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "tennis", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "boks", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "karate", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "fitness", "origin": "Ingliz tili", "alternative": "jismoniy tayyorgarlik" },
+  { "word": "gym", "origin": "Ingliz tili", "alternative": "sport zali" },
+  { "word": "trenajor", "origin": "Ingliz tili", "alternative": "mashq qurilmasi" },
+  { "word": "musobaqa", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "chempionat", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "liga", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "klub", "origin": "Ingliz tili", "alternative": "to'garak" },
+  { "word": "trener", "origin": "Ingliz tili", "alternative": "murabbiy" },
+  { "word": "kapitan", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "kino", "origin": "Ingliz tili", "alternative": "kinematograf" },
+  { "word": "film", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "serial", "origin": "Ingliz tili", "alternative": "ketma-ket ko'rsatuv" },
+  { "word": "aktyor", "origin": "Ingliz tili", "alternative": "san'atkor" },
+  { "word": "rejissyor", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "produser", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "premyera", "origin": "Ingliz tili", "alternative": "dastlabki namoyish" },
+  { "word": "festival", "origin": "Ingliz tili", "alternative": "bayram" },
+  { "word": "muzika", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "konsert", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "albom", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "track", "origin": "Ingliz tili", "alternative": "kuy / qo'shiq" },
+  { "word": "trek", "origin": "Ingliz tili", "alternative": "kuy / qo'shiq" },
+  { "word": "klip", "origin": "Ingliz tili", "alternative": "qo'shiq lavhasi" },
+  { "word": "dj", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "restoran", "origin": "Fransuz tili", "alternative": "oshxona" },
+  { "word": "kafe", "origin": "Ingliz tili", "alternative": "choyxona" },
+  { "word": "bar", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "menyu", "origin": "Fransuz tili", "alternative": "taomlar ro'yxati" },
+  { "word": "chef", "origin": "Ingliz tili", "alternative": "oshpaz" },
+  { "word": "shif", "origin": "Ingliz tili", "alternative": "oshpaz" },
+  { "word": "dessert", "origin": "Ingliz tili", "alternative": "shirinlik" },
+  { "word": "fastfood", "origin": "Ingliz tili", "alternative": "tez taom" },
+  { "word": "burger", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "pizza", "origin": "Italiya tili", "alternative": "" },
+  { "word": "sushi", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "hotel", "origin": "Ingliz tili", "alternative": "mehmonxona" },
+  { "word": "otel", "origin": "Ingliz tili", "alternative": "mehmonxona" },
+  { "word": "hostel", "origin": "Ingliz tili", "alternative": "arzon mehmonxona" },
+  { "word": "bron", "origin": "Ingliz tili", "alternative": "band qilish" },
+  { "word": "booking", "origin": "Ingliz tili", "alternative": "joy band qilish" },
+  { "word": "check-in", "origin": "Ingliz tili", "alternative": "ro'yxatdan o'tish" },
+  { "word": "check-out", "origin": "Ingliz tili", "alternative": "chiqish ro'yxati" },
+  { "word": "resepshn", "origin": "Ingliz tili", "alternative": "qabul bo'limi" },
+  { "word": "reception", "origin": "Ingliz tili", "alternative": "qabul bo'limi" },
+  { "word": "turizm", "origin": "Ingliz tili", "alternative": "sayohat" },
+  { "word": "tur", "origin": "Ingliz tili", "alternative": "sayohat" },
+  { "word": "gid", "origin": "Ingliz tili", "alternative": "yo'l ko'rsatuvchi" },
+  { "word": "ekskursiya", "origin": "Ingliz tili", "alternative": "ziyorat sayohati" },
+  { "word": "vizа", "origin": "Ingliz tili", "alternative": "kirish ruxsati" },
+  { "word": "pasport", "origin": "Ingliz tili", "alternative": "shaxs hujjati" },
+  { "word": "energiya", "origin": "Ingliz tili", "alternative": "quvvat" },
+  { "word": "generator", "origin": "Ingliz tili", "alternative": "quvvat ishlab chiqaruvchi" },
+  { "word": "motor", "origin": "Ingliz tili", "alternative": "dvigatel" },
+  { "word": "fabrika", "origin": "Ingliz tili", "alternative": "ishlab chiqarish joyi" },
+  { "word": "zavod", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "kompressor", "origin": "Ingliz tili", "alternative": "bosim yaratuvchi qurilma" },
+  { "word": "nasos", "origin": "Ingliz tili", "alternative": "suv tortuvchi qurilma" },
+  { "word": "elektron", "origin": "Ingliz tili", "alternative": "raqamli" },
+  { "word": "sensor", "origin": "Ingliz tili", "alternative": "sezgich" },
+  { "word": "kamera", "origin": "Ingliz tili", "alternative": "tasvirchi" },
+  { "word": "mikrofon", "origin": "Ingliz tili", "alternative": "ovoz oluvchi" },
+  { "word": "speaker", "origin": "Ingliz tili", "alternative": "karnay" },
+  { "word": "kolonka", "origin": "Ingliz tili", "alternative": "karnay" },
+  { "word": "adapter", "origin": "Ingliz tili", "alternative": "moslashuv qurilmasi" },
+  { "word": "akku", "origin": "Ingliz tili", "alternative": "batareya" },
+  { "word": "batareya", "origin": "Ingliz tili", "alternative": "quvvat manbai" },
+  { "word": "material", "origin": "Ingliz tili", "alternative": "xom ashyo" },
+  { "word": "plastik", "origin": "Ingliz tili", "alternative": "sun'iy modda" },
+  { "word": "metall", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "beton", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "sement", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "armatura", "origin": "Ingliz tili", "alternative": "mustahkamlash temir" },
+  { "word": "konstruksiya", "origin": "Ingliz tili", "alternative": "qurilish tuzilmasi" },
+  { "word": "protokol", "origin": "Ingliz tili", "alternative": "tartib qoidalari" },
+  { "word": "standart", "origin": "Ingliz tili", "alternative": "me'yor" },
+  { "word": "norma", "origin": "Ingliz tili", "alternative": "me'yor" },
+  { "word": "reglament", "origin": "Ingliz tili", "alternative": "qoida" },
+  { "word": "sertifikat", "origin": "Ingliz tili", "alternative": "tasdiqnoma" },
+  { "word": "licenziya", "origin": "Ingliz tili", "alternative": "ruxsatnoma" },
+  { "word": "patent", "origin": "Ingliz tili", "alternative": "ixtiro huquqi" },
+  { "word": "moderator", "origin": "Ingliz tili", "alternative": "nazoratchi" },
+  { "word": "admin", "origin": "Ingliz tili", "alternative": "bosh boshqaruvchi" },
+  { "word": "administrator", "origin": "Ingliz tili", "alternative": "bosh boshqaruvchi" },
+  { "word": "operatorlik", "origin": "Ingliz tili", "alternative": "boshqaruv" },
+  { "word": "supervisor", "origin": "Ingliz tili", "alternative": "nazoratchi" },
+  { "word": "forum", "origin": "Ingliz tili", "alternative": "muhokama maydoni" },
+  { "word": "chat", "origin": "Ingliz tili", "alternative": "jonli muloqot" },
+  { "word": "messenger", "origin": "Ingliz tili", "alternative": "xabar almashish" },
+  { "word": "support", "origin": "Ingliz tili", "alternative": "yordam xizmati" },
+  { "word": "helpdesk", "origin": "Ingliz tili", "alternative": "yordam bo'limi" },
+  { "word": "chatbot", "origin": "Ingliz tili", "alternative": "avtomatik muloqot" },
+  { "word": "bot", "origin": "Ingliz tili", "alternative": "avtomatik dastur" },
+  { "word": "ai", "origin": "Ingliz tili", "alternative": "sun'iy intellekt" },
+  { "word": "ml", "origin": "Ingliz tili", "alternative": "mashina o'rganishi" },
+  { "word": "dl", "origin": "Ingliz tili", "alternative": "chuqur o'rganish" },
+  { "word": "neural", "origin": "Ingliz tili", "alternative": "neyron" },
+  { "word": "neyron", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "transformer", "origin": "Ingliz tili", "alternative": "o'zgartiruvchi model" },
+  { "word": "embedding", "origin": "Ingliz tili", "alternative": "belgilash" },
+  { "word": "vector", "origin": "Ingliz tili", "alternative": "yo'nalishli kattalik" },
+  { "word": "prompt", "origin": "Ingliz tili", "alternative": "ko'rsatma" },
+  { "word": "scoring", "origin": "Ingliz tili", "alternative": "baholash" },
+  { "word": "ranking", "origin": "Ingliz tili", "alternative": "reytinglash" },
+  { "word": "classification", "origin": "Ingliz tili", "alternative": "tasniflash" },
+  { "word": "claster", "origin": "Ingliz tili", "alternative": "guruh" },
+  { "word": "cluster", "origin": "Ingliz tili", "alternative": "guruh" },
+  { "word": "regression", "origin": "Ingliz tili", "alternative": "orqaga qaytish tahlili" },
+  { "word": "dashboard", "origin": "Ingliz tili", "alternative": "bosh panel" },
+  { "word": "panel", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "widget", "origin": "Ingliz tili", "alternative": "kichik vosita" },
+  { "word": "report", "origin": "Ingliz tili", "alternative": "hisobot" },
+  { "word": "hisobot", "origin": "Ingliz tili", "alternative": "" },
+  { "word": "summary", "origin": "Ingliz tili", "alternative": "xulosa" },
+  { "word": "export", "origin": "Ingliz tili", "alternative": "chetga chiqarish" }
 ]

@@ -20,8 +20,8 @@ loanwordsRouter.post("/import", async (req, res) => {
   // ✅ eski format: { words: ["internet","telefon"] }
   const words: string[] = Array.isArray(req.body?.words) ? req.body.words : [];
 
-  // ✅ yangi format: { items: [{ word:"internet", origin:"Ingliz tili" }, ...] }
-  const items: Array<{ word: string; origin?: string }> = Array.isArray(req.body?.items)
+  // ✅ yangi format: { items: [{ word:"internet", origin:"Ingliz tili", alternative:"..." }, ...] }
+  const items: Array<{ word: string; origin?: string; alternative?: string }> = Array.isArray(req.body?.items)
     ? req.body.items
     : [];
 
@@ -45,12 +45,13 @@ loanwordsRouter.post("/import", async (req, res) => {
           const w = String(it.word).toLowerCase().trim();
           const origin = String(it.origin || "Noma’lum").trim();
 
+          const alternative = String(it.alternative || "").trim();
+
           return {
             updateOne: {
               filter: { word: w },
               update: {
-                $set: { origin },
-                // ✅ eng muhim fix: insert bo‘lsa word ham yozilsin
+                $set: { origin, alternative },
                 $setOnInsert: { word: w, createdAt: new Date() },
               },
               upsert: true,

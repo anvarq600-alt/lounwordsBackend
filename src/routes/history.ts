@@ -9,7 +9,7 @@ historyRouter.get("/", async (req, res) => {
 
   const items = await db
     .collection("analyses")
-    .find({}, { projection: { found: 1, stats: 1, createdAt: 1, type: 1, fileName: 1, sample: 1 } })
+    .find({}, { projection: { found: 1, stats: 1, createdAt: 1, type: 1, fileName: 1, sample: 1, text: 1 } })
     .sort({ createdAt: -1 })
     .limit(limit)
     .toArray();

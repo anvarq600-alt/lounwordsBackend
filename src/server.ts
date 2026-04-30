@@ -8,7 +8,6 @@ import { historyRouter } from "./routes/history.js";
 
 import { requestLogger } from "./middlewares/requestLogger.js";
 import { logger } from "./utils/logger.js";
-import { testSupabase } from "./supabase/client.js";
 import { getDb } from "./db/mongo.js";
 
 const app = express();
@@ -67,5 +66,4 @@ app.listen(port, async () => {
 
   // server startda tekshiruvlar (log chiqadi)
   await getDb().catch(() => {});
-  await testSupabase();
 });
